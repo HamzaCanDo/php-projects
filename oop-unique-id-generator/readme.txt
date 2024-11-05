@@ -19,7 +19,7 @@ PHP (preferably version 7.4 or above)
 MySQL database
 Apache server or any PHP-compatible web server (XAMPP, WAMP, etc.)
 Steps to Set Up
-Downlaod The Files
+Downlaod The Files, then place the folder into xampp>htdocks>here (if you using xampp)
 
 Open your MySQL client or phpMyAdmin.
 Create a new database and named it: unique_id_generator
